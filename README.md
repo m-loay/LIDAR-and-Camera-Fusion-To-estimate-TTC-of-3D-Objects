@@ -12,7 +12,12 @@ In this final project, you will implement the missing parts in the schematic. To
 
 ## Final Project Report
 ### The Results of the project
-<img src="images/TTC.gifpng"/>
+
+<p align="center">
+<img src="images/TTC.gif">
+</p>
+
+
 ### FP.1 Match 3D Objects
 In camFusion_Studen.cpp , function matchBoundingBoxes(), already implemented to return Matches with the highest number of keypoint correspondences.
 A 2D table is made , to record all occurences , then it's filtered to get the matched withe high occurances.
