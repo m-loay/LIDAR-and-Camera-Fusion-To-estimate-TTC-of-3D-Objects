@@ -158,7 +158,7 @@ int main(int argc, const char *argv[])
                                 shrinkFactor, P_rect_00, R_rect_00, RT);
 
             // Visualize 3D objects
-            bVis = false;
+            bVis = true;
             if(bVis)
             {
                 cout<<"Visualize 3D Objects"<<endl;
